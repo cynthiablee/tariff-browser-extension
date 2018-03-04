@@ -15,6 +15,9 @@ To install this extension in your Chrome browser, follow these steps:
 6. Choose the folder that the unzipped/extracted files are in (probably called "blockchain-to-spreadsheet-master").
 7. The extension should now appear and the "Enabled" box should be checked. Start browsing blockchain news to read about all the things a giant Excel spreadsheet can do!
 
+SCREENSHOT:
+![screenshot](https://user-images.githubusercontent.com/22127496/36940721-1abe584a-1efe-11e8-8ca0-8a70062b08ea.png)
+
 Special thanks:
 
 Michael Austin for the suggested phrases.
