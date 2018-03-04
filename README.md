@@ -1,5 +1,5 @@
 WHAT: 
-This is a Chrome browser extension that replaces the phrase "computational thinking" with the phrase "Santa Claus."
+This is a Chrome browser extension that replaces the word "tariff" with the phrase "indirect tax that Americans will have to pay on things they consume"
 
 WHY:
 For fun.
@@ -17,7 +17,7 @@ To install this extension in your Chrome browser, follow these steps:
 
 Special thanks:
 
-Ben Shapiro and Mark Guzdial for the suggested phrases.
+Michael Austin for the suggested phrases.
 
 Thanks to Tom Maxwell for the [tutorial and template code](https://9to5google.com/2015/06/14/how-to-make-a-chrome-extensions/) for this project! 
 
