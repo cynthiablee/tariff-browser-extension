@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
-    "name": "Replace \"computational thinking\" with \"Santa Claus\"",
-    "description": "Replaces all instances of the phrase \"computational thinking\" with the phrase \"Santa Claus\".",
+    "name": "Replace \"tariff\" with \"indirect tax that Americans will have to pay on things they consume\"",
+    "description": "Replaces all instances of the word \"tariff\" with the phrase \"indirect tax that Americans will have to pay on things they consume\".",
     "version": "1.1",
     "content_scripts": [
         {
