@@ -8,7 +8,8 @@ for (var i = 0; i < elements.length; i++) {
 
         if (node.nodeType === 3) {
             var text = node.nodeValue;
-            var replacedText = text.replace(/tariff/gi, 'indirect tax that Americans will have to pay on things they consume');
+            var replacedText = text.replace(/tariffs/gi, 'indirect tax that Americans will have to pay on things they consume');
+            replacedText = replacedText.replace(/tariff/gi, 'indirect taxes that Americans will have to pay on things they consume');
 
             if (replacedText !== text) {
                 element.replaceChild(document.createTextNode(replacedText), node);
