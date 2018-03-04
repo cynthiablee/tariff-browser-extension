@@ -16,7 +16,7 @@ To install this extension in your Chrome browser, follow these steps:
 7. The extension should now appear and the "Enabled" box should be checked. Start browsing blockchain news to read about all the things a giant Excel spreadsheet can do!
 
 SCREENSHOT:
-![screenshot](https://user-images.githubusercontent.com/22127496/36940721-1abe584a-1efe-11e8-8ca0-8a70062b08ea.png)
+![screenshot](https://user-images.githubusercontent.com/22127496/36940775-4c49739e-1eff-11e8-84d9-32af6d86f782.png)
 
 Special thanks:
 
